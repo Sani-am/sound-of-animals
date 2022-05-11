@@ -1,0 +1,40 @@
+body{
+    background: #eefeff;
+    font-family: 'Updock', cursive;
+}
+
+.header_div{
+    background: #daf3f5;
+    color: #000000;
+    border: 0.5px black outset;
+}
+
+.header_div p{
+    font-family: 'Great Vibes', cursive;
+    color:rgb(0, 0, 0);
+    letter-spacing: 2px ;
+    font-size: 25px;
+    font-weight: bold;
+
+}
+
+.main_div button{
+    font-family: 'Great Vibes', cursive;
+    margin-top: 30px;
+    width: 100px;
+    font-weight: bolder;
+    letter-spacing: 4px;
+    font-size: larger;
+}
+
+.copy_right_footer{
+    position:fixed;
+    color: #000000;
+    bottom:0;
+    width: 100%;
+    font-size: 20px;
+    background-color: white;
+    line-height: 2;
+    text-align: center;
+    text-shadow: 5px 5px 2px rgb(132, 129, 129);
+}
